@@ -6,6 +6,7 @@ installation-images builds the SUSE installation system. This includes the insta
 everything it needs to run an installation (except for the actual package repository). This also
 includes the boot loader configuration used on our installation media.
 
+
 To give you an impression what we are talking about here, here's a (a bit shortened) listing
 of the relevant files on an x86_64 installation dvd:
 
